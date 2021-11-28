@@ -1,23 +1,23 @@
 
-            Hello There!
-            Welcome To my Github
+Hello There!
+Welcome To my Github
 
 
 
 
-            Feel free to look around and check out my Projects!
+Feel free to look around and check out my Projects!
 
-            My Stack -
+My Stack -
 
-            Javascript
+Javascript
 
-            HTML5
+HTML5
 
-            CSS3
+CSS3
 
-            I am currently learning -
+I am currently learning -
 
-            ReactJS 
+ReactJS 
 
-            NextJS
+NextJS
 
