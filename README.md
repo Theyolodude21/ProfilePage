@@ -12,3 +12,6 @@
                                     HTML5                        ReactJS 
 
                                     CSS3                                
+
+
+![](https://komarev.com/ghpvc/?username=Theyolodude21&color=green)
